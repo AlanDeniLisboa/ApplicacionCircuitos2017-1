@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PanamaHitek_Arduino-2.8.32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/run296506149/lib/PanamaHitek_Arduino-2.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

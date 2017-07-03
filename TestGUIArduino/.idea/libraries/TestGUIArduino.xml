@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestGUIArduino">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TestGUIArduino.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
